@@ -14,8 +14,8 @@ I have tried to implement ML/DL algorithms from scratch using numpy, because get
         <td><p align="center">Tensorflow optimizers</p></td>
     </tr>
     <tr>
-        <td><img width="300" src="/home/vishal/Downloads/repos/deep_learning/temp/plot/nn/optimizers/optimizers_comparision_scratch.gif"></td>
-        <td><img width="300" src="/home/vishal/Downloads/repos/deep_learning/temp/plot/nn/optimizers/optimizers_comparision_tf.gif"></td>
+        <td><img width="300" src="./home/vishal/Downloads/repos/deep_learning/temp/plot/nn/optimizers/optimizers_comparision_scratch.gif"></td>
+        <td><img width="300" src="./home/vishal/Downloads/repos/deep_learning/temp/plot/nn/optimizers/optimizers_comparision_tf.gif"></td>
     </tr>
 </table>
 
