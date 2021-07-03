@@ -10,8 +10,8 @@ I have tried to implement ML/DL algorithms from scratch using numpy, because get
 
 <p align="center">Scratch optimizers</p>
 
-<p>
-        <img width="600" src="./temp/plot/nn/optimizers/optimizers_comparision_scratch.gif" alt="Scratch optimizers">
+<p align="center">
+        <img width="500" src="./temp/plot/nn/optimizers/optimizers_comparision_scratch.gif" alt="Scratch optimizers">
 </p>
 
       
