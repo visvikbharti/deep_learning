@@ -1,7 +1,7 @@
-<h1 align="center">ML Workbook</h1>
+<h1 align="center">Preparation for NMD classification</h1>
 
 ## Description
-These are my initial footsteps into Machine Learning.
+Here I have begun the journey of my NMD classification project: starting with ml first.
 I have tried to implement ML/DL algorithms from scratch using numpy, because getting your hands dirty is the best way to learn.
 
 
@@ -22,7 +22,7 @@ I have tried to implement ML/DL algorithms from scratch using numpy, because get
 ## Comparision of optimization Algorithms on MNIST dataset
 [Source code](./src/dl/example.py)
 
-I have compared the performance of a Convolutional Neural Network with different optimizers.
+I have compared the performance of a Convolutional Neural Network(CNN) with different optimizers.
 Models used same test and train datasets. Here are the results.
 ​
 
