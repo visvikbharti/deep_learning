@@ -6,7 +6,6 @@ from src.dl.layers import Dense
 from src.dl.activation import Relu, Sigmoid, Softmax
 from src.dl.optimizers import Adam, RMSProp, GD, Momentum
 
-
 mndata = MNIST('/home/user/Downloads/', gz=True)
 
 train_images, train_labels = mndata.load_training()
